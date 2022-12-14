@@ -1,0 +1,1 @@
+Kullanıcıdan dizinin kaç elemanlı olduğunu ve dizi elemanlarını aldıktan sonra dizideki elemanlar 5’den küçük ise 0’a, 5’den büyük ise 1’e yuvarlayan fonksiyonun C kodunu yazınız.

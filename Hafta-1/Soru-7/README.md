@@ -1,0 +1,1 @@
+Sıfırdan başlayarak kullanıcıdan aldığı satır sayısına kadar tüm sayıları şekildeki gibi ekrana yazdıran fonksiyonun C kodunu yazınız.
