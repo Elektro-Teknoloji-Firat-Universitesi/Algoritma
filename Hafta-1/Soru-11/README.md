@@ -1,0 +1,1 @@
+Bir dijital sinyaldeki yükselen kenar ve düşen kenar durumlarını bulan fonksiyonunun C kodunu yazınız. (Sinyal değerleri için bir adet boyutu 20 olan integer dizi oluşturunuz ve diziye bilgisayar tarafından random lojik-0 ve lojik-1 durumları atanmasını sağlayınız.)

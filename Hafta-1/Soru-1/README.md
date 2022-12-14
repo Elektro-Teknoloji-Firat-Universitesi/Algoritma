@@ -1,0 +1,1 @@
+Birden başlayarak klavyeden girilen bir sayıya kadar bütün sayıların toplamını bulan bir fonksiyonun C kodunu yazınız.

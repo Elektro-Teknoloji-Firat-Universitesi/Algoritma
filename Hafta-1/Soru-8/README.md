@@ -1,0 +1,1 @@
+2 adet 2x2 matrisi toplayan C kodunu yazınız.

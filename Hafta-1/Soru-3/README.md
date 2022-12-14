@@ -1,0 +1,1 @@
+Klavyeden girilen bir sayı çift ise 5 ile tek ise 10 ile çarpan fonksiyonun C kodunu yazınız.

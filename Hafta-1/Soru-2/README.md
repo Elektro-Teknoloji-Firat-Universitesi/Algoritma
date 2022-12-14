@@ -1,0 +1,1 @@
+Kullanıcının girdiği 2 adet sayıyı yine kullanıcının belirlediği operatöre göre matematiksel işleme sokan ve sonuçları geri döndüren fonksiyonun C kodunu yazınız. 
